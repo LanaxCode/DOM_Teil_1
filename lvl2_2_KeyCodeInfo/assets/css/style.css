@@ -1,0 +1,14 @@
+section {
+    display: flex;
+    gap: 30px
+}
+
+section div {
+    width: 100px;
+    background-color: antiquewhite;
+}
+
+div p {
+    background-color: aqua;
+    height: 4vh;
+}
